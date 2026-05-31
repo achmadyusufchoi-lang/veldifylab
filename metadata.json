@@ -1,0 +1,6 @@
+{
+  "name": "PromptLock AI",
+  "description": "Veldify Engine Lab analyzes facial identity, hairstyle, outfit, lighting, environment, and camera composition to generate highly structured prompts that preserve visual consistency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
